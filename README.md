@@ -2,8 +2,8 @@
 
 Self learning course notes for UCB MATH 125A (Introduction to Mathematical Logic)
 
-Course Instructor: Antonio Montalban (
-[[website]](https://math.berkeley.edu/~antonio/math125A/index.html) [[video]](https://www.youtube.com/playlist?list=PLjJhPCaCziSRSUtQiTA_yx5TJ76G_EqUJ) )
+Course Instructor: Antonio Montalban
+[[Textbook]](https://www.amazon.com/Mathematical-Introduction-Logic-Herbert-Enderton/dp/0122384520) [[website]](https://math.berkeley.edu/~antonio/math125A/index.html) [[video]](https://www.youtube.com/playlist?list=PLjJhPCaCziSRSUtQiTA_yx5TJ76G_EqUJ) 
 
 The course mainly includes:
 
